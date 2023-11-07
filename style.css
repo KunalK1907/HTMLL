@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: grey(to right,#a2cae8,#7dbae8,#4781ad);
+	background-image: linear-gradient(to right,#32a889,#7dbae8,#32a8a4);
 	position: fixed;
 	top: 0px;
 	left: 0px;
