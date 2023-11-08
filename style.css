@@ -4,7 +4,7 @@
 	box-sizing: border-box;
 }
 .navigation_bar{
-	background-image: linear-gradient(to right,#a2cae8,#7dbae8,#4781ad);
+	background-image: linear-gradient(to right,#3285a8,#b1b8c9,#c1b1c9);
 	position: fixed;
 	top: 0px;
 	left: 0px;
@@ -25,7 +25,7 @@
 	font-size: 30px;
 /*	as*/
 	font-family: Arial Black;
-	color: royalblue;
+	color: #455954;
 	text-shadow: 0px 0px 3px white;
 	font-variant: small-caps;
 }
@@ -47,9 +47,12 @@ html{
 .home{
 	margin-top: 100px;
 	height: 400px;
+	font-family: Times New Roman;
+	background-color: #dfdbd8 ;
 }
 .homename{
 	font-size: 80px;
+	color: darkgoldenrod;
 }
 #designation
 {
@@ -63,7 +66,7 @@ html{
 	font-weight: bolder;
 }
 .about{
-	background-color: #dae0da;
+	background-color: #b5c2c7;
 	height: 400px;
 }
 .aboutdata
@@ -73,9 +76,10 @@ html{
 .cobj
 {
 	font-size: 25px;
+	font-family: Bahnschrift Condensed;
 	text-align: justify;
 	text-indent: 20%;
-	color: grey;
+	color: bla;
 }
 .section_head
 {
